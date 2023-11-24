@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: TimesTap
+title: TimeTap
 
 name: Build and Deploy
 on: [push]
