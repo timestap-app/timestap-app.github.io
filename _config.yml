@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: TimeTap
 
+include: [".well-known"]
 name: Build and Deploy
 on: [push]
 permissions: 
